@@ -16,6 +16,7 @@ print("\nВиведення слів з першими та останніми �
 max_num=""
 numb_new_string=""
 for numbers in extract_number:
+
     if "0" <= numbers <= "9":
     
 
